@@ -1,5 +1,9 @@
 # Getting Started with this App
 
+## Target branch
+
+### `master`
+
 ## Install dependencies
 
 ### `npm install`
